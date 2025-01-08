@@ -1,4 +1,4 @@
-# Sanaf's Calculator
+# Sanaf's Calculator- https://sanafahmed.github.io/Sanaf-s-Calculator/
 
 Welcome to **Sanaf's Calculator**, a simple, intuitive, and feature-rich calculator app designed to help users perform basic and advanced mathematical calculations with ease.
 
