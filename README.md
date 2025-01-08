@@ -27,13 +27,24 @@ Make sure you have the following installed on your system:
    git clone https://github.com/your-username/sanafs-calculator.git
 
 
-2.cd sanafs-calculator
+2.Navigate into the project directory:
+
+bash
+cd sanafs-calculator
 
 
-3.npm install
+3.Install the required dependencies:
+
+bash
+
+npm install
 
 
-4.npm start
+4.Start the app:
+
+bash
+
+npm start
 
 
 
